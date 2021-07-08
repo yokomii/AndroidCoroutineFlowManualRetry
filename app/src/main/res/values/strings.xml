@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutineFlowManualRetry</string>
+    <string name="message_error">ERROR</string>
+    <string name="retry">RETRY</string>
+</resources>
